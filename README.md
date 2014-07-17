@@ -7,3 +7,4 @@ The original source code can be found here http://www.meadowy.org/~gotoh/ssh/con
 
 NOTE: This code is NOT UPDATED regularly. I simply put this as a backup to the original source.
 
+The original document http://www.zeitoun.net/articles/ssh-through-http-proxy/start
